@@ -1,7 +1,7 @@
 {
-  "name": "file-organiser",
+  "name": "cleanup",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple command line utility that organises files in a directory into subdirectories based on the file extensions.",
   "main": "organise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "bin": {
     "organise": "organise.js"
   },
-  "author": "",
+  "author": "Saurabh Kumar",
   "license": "ISC"
 }
